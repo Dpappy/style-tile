@@ -4,12 +4,15 @@
 
 /* Color Palette */
 
+.color-1 {background: red;}
 
+.color-2 {background: green;}
 /* Textures or Patterns*/
-
+.pattern-1 { background:url(https://s-media-cache-ak0.pinimg.com/236x/78/72/85/787285725daa071f32ef52d08765fc3a.jpg);
 
 /* Imagery */
-
+.imagery-1 {
+    background: url(http://www.crossroadsaspen.com/wp-content/uploads/2014/10/christmas-tree-hd-wallpapers-best-desktop-images-widescreen.jpg);
 
 /* Icons */
 
